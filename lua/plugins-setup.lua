@@ -141,4 +141,6 @@ return require('packer').startup(function(use)
 		'lewis6991/gitsigns.nvim'
 	}
 
+    -- tmux & split window navigation
+    use 'christoomey/vim-tmux-navigator'
 end)

@@ -1,4 +1,5 @@
 require('plugins-setup')
+require('core.options')
 require('plugins.harpoon-cfg')
 require('plugins.file-explorer')
 require('plugins.mason-config')
